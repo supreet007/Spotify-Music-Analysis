@@ -3,6 +3,9 @@
 ## 📌 Introduction
 This repository contains a Power BI dashboard designed to analyze **Spotify's most streamed songs** dataset until the year **2023**. The dashboard provides insights into total streams, individual track analysis, and trends across different months and artists.
 
+![alexander-shatov-JlO3-oY5ZlQ-unsplash](https://github.com/user-attachments/assets/f25ef6d5-d145-41e2-9980-76da95f2a57b)
+
+
 ## 📊 Features
 - **Total Streams Analysis**: View overall streaming counts.
 - **Track-Specific Insights**: Analyze energy, speechiness, liveness, danceability, and key metrics of a song.
@@ -15,9 +18,10 @@ This repository contains a Power BI dashboard designed to analyze **Spotify's mo
 ```
 Spotify_Dashboard/
 │-- dataset/              # Contains raw data files (CSV, Excel, etc.)
-
+|    │-- "Spotify Most Streamed Songs 2023 Dataset.xlsx"  # Streamed data in Excel format
 │-- screenshots/          # Images of the dashboard preview
 │   │-- spotify_dashboard.png  # Dashboard screenshot
+|    │-- spotify_dashboard2.png  # Dashboard screenshot
 │-- Spotify_Dashboard.pbix  # Power BI report file
 │-- README.md             # Project documentation
 ```
@@ -34,7 +38,7 @@ The dataset includes:
 
 ### **2. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/Spotify_Music_Analysis.git
+git clone https://github.com/supreet007/Spotify-Music-Analysis.git
 ```
 
 ### **3. Open the Dashboard**
@@ -43,7 +47,11 @@ git clone https://github.com/your-username/Spotify_Music_Analysis.git
 - Refresh the dataset if required and explore the dashboard.
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](screenshots/spotify_dashboard.png)
+![Spotify dashboard](https://github.com/user-attachments/assets/30af828f-ce38-4b3b-ae41-7ca2ecbd4c4e)
+
+![Spotify dashboard 2](https://github.com/user-attachments/assets/864a0bf1-4e78-47f8-b9cc-e4bb7fad607d)
+
+
 
 ## 🔄 Updating the Dashboard
 1. Modify the dataset or Power BI report as needed.
