@@ -3,7 +3,8 @@
 ## 📌 Introduction
 This repository contains a Power BI dashboard designed to analyze **Spotify's most streamed songs** dataset until the year **2023**. The dashboard provides insights into total streams, individual track analysis, and trends across different months and artists.
 
-![alexander-shatov-JlO3-oY5ZlQ-unsplash](https://github.com/user-attachments/assets/15e06b9b-ed26-465c-817b-510762e21c95)
+![Spotify_Full_Logo_RGB_Green](https://github.com/user-attachments/assets/c368e637-a3f0-4ff9-ab0c-007366d272a7)
+
 
 
 
